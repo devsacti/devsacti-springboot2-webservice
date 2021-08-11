@@ -10,7 +10,7 @@
 
 테스트 : junit
 
-서버 배포 관련 : AWS ec2(Iaas), MySQL of AWS RDS, 쉘스크립트
+서버 배포 관련 : AWS ec2(Iaas), Mariadb of AWS RDS, 쉘스크립트
 
 ## 개요
 
